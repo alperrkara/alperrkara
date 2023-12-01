@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alperrkara
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on UX Design
 - 📫 How to reach me LinkedIn linkedin.com/in/alperkra
 
